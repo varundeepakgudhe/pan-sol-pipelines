@@ -18,17 +18,17 @@
 
 <br/>
 
-## Getting Started
+## Getting Started 
 
 
 
 <br/>
-## Pre-processing
+## Pre processing 
 
 
 
 <br/>
-## Gene Annotation
+## Gene Annotation 
 
 
 
@@ -39,9 +39,9 @@
 
 
 <br/>
-## Packaging
+## Packaging 
 
 
 
 <br/>
-## Final checks 
+## Final Checks 
