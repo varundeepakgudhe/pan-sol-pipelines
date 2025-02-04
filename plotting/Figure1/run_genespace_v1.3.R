@@ -1,3 +1,11 @@
+## In this file, we need 
+# libraries
+# Path to MCScanX software.
+# A list of genome identifiers
+# Directory containing OrthoFinder results,
+# reference genome
+
+
 library("optparse")
 library("GENESPACE")
 library("RColorBrewer")
